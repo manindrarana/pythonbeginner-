@@ -1,4 +1,5 @@
 ## program to accept the sequence of comma-separated numbers from the user and generate a list and tuple with those numbers
+print("--------------------------------------------------------------------")
 
 values = input("-----input some comma separated number-------: ")
 
@@ -11,3 +12,5 @@ tuple = tuple(lists)
 print('List : ',lists)
 
 print('Tuple : ',tuple)
+
+print("--------------------------------------------------------------------")
